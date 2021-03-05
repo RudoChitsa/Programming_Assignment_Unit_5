@@ -1,0 +1,7 @@
+Python 3.10.0a4 (tags/v3.10.0a4:445f7f5, Jan  4 2021, 19:55:53) [MSC v.1928 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+===== RESTART: C:\Users\Romeo&Rudo\Desktop\Programming Assignment Unit 5.py ====
+>>> square_root(20)
+4.47213595499958
+>>> 
